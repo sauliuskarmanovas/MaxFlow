@@ -1,0 +1,7 @@
+C:\Saulius\Programavimas\6sem\alg\labC\MaxFlow\MaxFlow\obj\Debug\MaxFlow.csprojResolveAssemblyReference.cache
+C:\Saulius\Programavimas\6sem\alg\labC\MaxFlow\MaxFlow\obj\Debug\MaxFlow.csproj.CoreCompileInputs.cache
+C:\Saulius\Programavimas\6sem\alg\labC\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe.config
+C:\Saulius\Programavimas\6sem\alg\labC\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe
+C:\Saulius\Programavimas\6sem\alg\labC\MaxFlow\MaxFlow\bin\Debug\MaxFlow.pdb
+C:\Saulius\Programavimas\6sem\alg\labC\MaxFlow\MaxFlow\obj\Debug\MaxFlow.exe
+C:\Saulius\Programavimas\6sem\alg\labC\MaxFlow\MaxFlow\obj\Debug\MaxFlow.pdb
